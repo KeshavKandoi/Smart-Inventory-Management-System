@@ -1,0 +1,13 @@
+# 🔐 Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# 📦 Node modules (VERY IMPORTANT)
+node_modules/
+
+# ⚙️ OS files
+.DS_Store
+Thumbs.db
